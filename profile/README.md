@@ -13,14 +13,14 @@ Our work spans personality, planning, trading, and sleep — four different doma
 ### FiveWeave(다섯결)
 Big Five personality testing and self-understanding.
 
+### DreamWeave
+Sleep analysis built on CPAP and wearable data.
+
 ### FlowWeave
 Planning for tasks, priorities, projects, and focus.
 
 ### AlphaWeave
 RL-powered trading and market analysis for stocks and crypto.
-
-### DreamWeave
-Sleep analysis built on CPAP and wearable data.
 
 ## What We Value
 
