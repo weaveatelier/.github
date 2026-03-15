@@ -1,4 +1,4 @@
-<img src="assets/Weave_Apps.png" alt="Weave Atelier apps" width="420" />
+<img src="assets/Weave_Apps.png" alt="Weave Atelier apps" width="840" />
 
 # Weave Atelier
 
@@ -14,33 +14,41 @@
 
 ## 제품
 
-<img src="assets/FiveWeave_AppleIcon.png" alt="FiveWeave icon" width="120" />
+<a href="https://github.com/weaveatelier/fiveweave/blob/main/README_KR.md">
+  <img src="assets/FiveWeave_AppleIcon.png" alt="FiveWeave icon" width="120" />
+</a>
 
-### FiveWeave
+### [FiveWeave (다섯결)](https://github.com/weaveatelier/fiveweave/blob/main/README_KR.md)
 
 **BIG5 모델을 바탕으로 더 깊은 자기이해와 상호이해를 돕는 성격 앱.**
 
 FiveWeave는 단순한 유형 라벨을 넘어 성격을 더 선명하게 이해하도록 돕기 위해 만들어집니다. BIG5 모델을 바탕으로 더 차분하고 더 구조적인 성격 관점을 제공하며, 자기이해와 상호이해를 함께 돕는 방향을 지향합니다.
 
-<img src="assets/FlowWeave_AppleIcon.png" alt="FlowWeave icon" width="120" />
+<a href="https://github.com/weaveatelier/flowweave/blob/main/README_KR.md">
+  <img src="assets/FlowWeave_AppleIcon.png" alt="FlowWeave icon" width="120" />
+</a>
 
-### FlowWeave
+### [FlowWeave (흐름결)](https://github.com/weaveatelier/flowweave/blob/main/README_KR.md)
 
 **할 일과 맥락 전반에서 더 선명한 흐름과 더 깊은 몰입을 돕는 생산성 앱.**
 
 FlowWeave는 할 일, 일정, 그리고 주변 맥락에 흩어진 작업 흐름을 더 선명하게 정리하기 위해 만들어집니다. 복잡한 일을 더 분명한 흐름으로 바꾸고, 무엇이 중요한지 더 잘 보이게 하며, 더 깊이 몰입해 실행하도록 돕는 것이 목표입니다.
 
-<img src="assets/DreamWeave_AppleIcon.png" alt="DreamWeave icon" width="120" />
+<a href="https://github.com/weaveatelier/dreamweave/blob/main/README_KR.md">
+  <img src="assets/DreamWeave_AppleIcon.png" alt="DreamWeave icon" width="120" />
+</a>
 
-### DreamWeave
+### [DreamWeave (꿈결)](https://github.com/weaveatelier/dreamweave/blob/main/README_KR.md)
 
 **연동된 여러 기기의 수면 데이터를 바탕으로, 밤마다의 상태를 더 명확하게 이해하게 돕는 수면 데이터 앱.**
 
 DreamWeave는 연결된 여러 기기의 수면 관련 데이터를 한데 모아, 매일 밤의 상태를 더 차분하고 더 읽기 쉬운 방식으로 보여주는 앱입니다. 수면 데이터를 해석하는 부담을 줄이고, 시간이 지나며 자신의 수면을 더 분명하게 이해하도록 돕는 방향을 지향합니다.
 
-<img src="assets/AlphaWeave_AppleIcon.png" alt="AlphaWeave icon" width="120" />
+<a href="https://github.com/weaveatelier/alphaweave/blob/main/README_KR.md">
+  <img src="assets/AlphaWeave_AppleIcon.png" alt="AlphaWeave icon" width="120" />
+</a>
 
-### AlphaWeave
+### [AlphaWeave (앞결)](https://github.com/weaveatelier/alphaweave/blob/main/README_KR.md)
 
 **시장 신호, 체제, 그리고 중요한 시장 변화를 더 명확하게 읽게 해주는 크로스에셋 시장 인텔리전스 앱.**
 
