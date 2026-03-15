@@ -1,34 +1,53 @@
+<img src="assets/Weave_Apps.png" alt="Weave Atelier apps" width="420" />
+
 # Weave Atelier
 
-We build apps that weave complex data into decisions, understanding, and action.
+**Weave Atelier is an independent software studio building apps for personality, work, sleep, and markets.**
 
-## About
+## Philosophy
 
-Weave Atelier creates apps that make complex systems easier to understand and use.
+The name **Weave** reflects what our products do: they weave scattered data, context, and signals into clearer, calmer, and more understandable forms.
 
-Our work spans personality, planning, trading, and sleep — four different domains connected by a common idea: better tools come from weaving fragmented data into coherent experiences.
+Complex systems become easier to work with when signals are clearer and structure is easier to read. Rather than forcing everything into a single monolithic platform, Weave Atelier builds a portfolio of apps with a shared design language across different domains.
+
+Each product addresses a different kind of complexity, but the direction is similar: reduce fragmentation, surface meaningful structure, and help people understand what they are working with more clearly.
 
 ## Products
 
-### FiveWeave(다섯결)
-Big Five personality testing and self-understanding.
+<img src="assets/FiveWeave_AppleIcon.png" alt="FiveWeave icon" width="120" />
 
-### DreamWeave
-Sleep analysis built on CPAP and wearable data.
+### FiveWeave
+
+**A personality app for deeper self-understanding and mutual understanding through the BIG5 model.**
+
+FiveWeave is designed to help people understand personality more clearly than simple type labels allow. It brings a calmer, more structured view of personality through the BIG5 model, with an emphasis on deeper self-understanding and better mutual understanding.
+
+<img src="assets/FlowWeave_AppleIcon.png" alt="FlowWeave icon" width="120" />
 
 ### FlowWeave
-Planning for tasks, priorities, projects, and focus.
+
+**A productivity app for clearer flow and deeper focus across tasks and context.**
+
+FlowWeave is built to reduce fragmentation across tasks, schedules, and surrounding context. Its goal is to turn complex work into clearer flow, so people can see what matters, move through work more intentionally, and focus more deeply on meaningful execution.
+
+<img src="assets/DreamWeave_AppleIcon.png" alt="DreamWeave icon" width="120" />
+
+### DreamWeave
+
+**A sleep data app for clearer night-by-night understanding across connected devices.**
+
+DreamWeave brings sleep-related data together across connected devices and turns it into a calmer, more readable view of each night. It is designed to reduce interpretation burden and help people understand what happened during sleep more clearly over time.
+
+<img src="assets/AlphaWeave_AppleIcon.png" alt="AlphaWeave icon" width="120" />
 
 ### AlphaWeave
-RL-powered trading and market analysis for stocks and crypto.
 
-## What We Value
+**A cross-asset market intelligence app for clearer signals, regimes, and shifts.**
 
-- clarity over noise
-- structure over clutter
-- reflection, focus, and action
-- products that are both rigorous and humane
+AlphaWeave is designed to make market conditions easier to read across signals, regimes, and meaningful changes over time. It aims to support a more structured and research-oriented view of markets without collapsing into noise, hype, or overconfident calls.
 
-## Status
+## Direction
 
-Early-stage apps under active development.
+Weave Atelier is currently being built as an independent studio, with each product developed iteratively and with strong attention to foundations.
+
+The broader direction is straightforward: build software that makes complex systems easier to read, easier to navigate, and easier to work with.
