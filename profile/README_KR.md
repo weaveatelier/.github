@@ -1,4 +1,4 @@
-<img src="assets/Weave_Apps.png" alt="Weave Atelier apps" width="420" />
+<img src="assets/Weave_Apps.png" alt="Weave Atelier apps" width="840" />
 
 # Weave Atelier
 
